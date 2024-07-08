@@ -3,3 +3,7 @@
 
 ClearStereo is a combination of channel delay and channel flipping to produce a broad gap between left and right channel. 
 I have included an equalizer as well to further enhance the listening experience.
+
+## Installation
+
+You can install the preset by importing it from the EasyEffects itself.
