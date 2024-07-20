@@ -4,7 +4,7 @@
         "equalizer#0": {
             "balance": 0.0,
             "bypass": false,
-            "input-gain": 0.0,
+            "input-gain": -2.5,
             "left": {
                 "band0": {
                     "frequency": 20.0,
@@ -130,9 +130,9 @@
             },
             "mode": "SPM",
             "num-bands": 11,
-            "output-gain": -5.0,
-            "pitch-left": -6.0,
-            "pitch-right": -6.0,
+            "output-gain": -2.5,
+            "pitch-left": -4.0,
+            "pitch-right": -4.0,
             "right": {
                 "band0": {
                     "frequency": 20.0,
@@ -285,7 +285,7 @@
             "side-balance": 0.0,
             "side-level": 0.0,
             "softclip": false,
-            "stereo-base": 0.04,
+            "stereo-base": 0.0,
             "stereo-phase": 0.0
         },
         "stereo_tools#1": {
@@ -306,7 +306,7 @@
             "side-balance": 0.0,
             "side-level": 0.0,
             "softclip": false,
-            "stereo-base": 0.04,
+            "stereo-base": 0.0,
             "stereo-phase": 0.0
         }
     }
